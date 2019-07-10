@@ -185,7 +185,9 @@ Il **n'y aura pas d'assistance** lors du workshop...
 Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre la procédure d'installation décrite dans son readme.
 
 
-## 1.6 <code>&ast;</code>the lights go out<code>&ast;</code> 'Oh... one more thing': The movie db
+## 1.6 <code>&ast;</code>the lights go out<code>&ast;</code> 'Oh... one more thing'...
+
+**The movie db**
 
 Vous devrez vous créer un compte sur The movie db pour avoir un token pour vous connecter à l'APi (si on arrive jusque là dans le workshop).
 
