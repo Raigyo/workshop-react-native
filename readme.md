@@ -123,38 +123,37 @@ Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire 
 
 - Installez le client expo sur le PC/Mac
 
-Linux: `$ npm install expo-cli --global`
-
-Mac: `$ sudo npm install -g expo-cli`
+    Linux: `$ npm install expo-cli --global`
+    
+    Mac: `$ sudo npm install -g expo-cli`
 
 - Créez votre première app React Native
 
-`$ expo init expo-test`
-
-Donnez un nom à l'application et installez les dépendances...
+    `$ expo init expo-test`
+    
+    Donnez un nom à l'application et installez les dépendances...
 
 - Lancez un test
 
-`$ cd init expo-test`
-
-`$ expo start` / `$ npm start`
+    `$ cd init expo-test`
+    
+    `$ expo start` / `$ npm start`
 
 - Scannez le code avec l'application Expo du smartphone
 
-Cela va prendre un petit temps pour fair le build la première fois.
-
-
-=> Phase 1: Vous voyez apparaitre: *Open up App.js to start working on your app!*
-
-=> Phase 2: ?
-
-=> Phase 3: Profit
-
-Sinon, 
-
-=> Try again!
-
-=> Appelez (Google, nous...) à l'aide
+    Cela va prendre un petit temps pour fair le build la première fois.    
+    
+    => Phase 1: Vous voyez apparaitre: *Open up App.js to start working on your app!*
+    
+    => Phase 2: ?
+    
+    => Phase 3: Profit
+    
+    Sinon, 
+    
+    => Try again!
+    
+    => Appelez (Google, nous...) à l'aide
 
 
 ### 1.5.3 <code>&ast;</code>the lights go out<code>&ast;</code>: Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
