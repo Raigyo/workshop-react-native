@@ -14,7 +14,7 @@
 
 # TL;DR
 
-Passez à la partie *[Test environnement](https://github.com/Raigyo/workshop-react-native#test-environnement)*, nécessaire pour une participation au workshop.
+Passez à la partie *[Test environnement](https://github.com/Raigyo/workshop-react-native#152-test-environnement)*, nécessaire pour une participation au workshop.
 
 
 # 1. Introduction
