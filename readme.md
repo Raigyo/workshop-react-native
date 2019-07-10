@@ -147,7 +147,7 @@ Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire 
     
     => Phase 2: ?
     
-    => Phase 3: Profit
+    => Phase 3: [Profit](https://github.com/Raigyo/workshop-react-native#17-lets-begin)
     
     Sinon, 
     
