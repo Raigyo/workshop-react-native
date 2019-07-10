@@ -90,14 +90,12 @@ L'application doit être compilée pour être visualisée. L'installation de l'e
 
 Il faut un mac pour compiler la partie IOS.
 
-~~~
-$ npm install -g react-native-cli
 
-$ react-native init my-project
-~~~
+`$ npm install -g react-native-cli`
+
+`$ react-native init my-project`
 
 `$ react-native run-ios` ou `$ react-native run-android`
-
 
 
 Il est possible de passer d'un développement CRNA à un développement React Native CLI (mais pas l'inverse)  via la commande:
