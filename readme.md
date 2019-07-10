@@ -193,7 +193,7 @@ Vous devrez vous créer un compte sur The movie db pour avoir un token pour vous
 
 ## 1.7 Let's begin
 
-[c'est par ici...](#)
+[C'est par ici...](#)
 
 
 
