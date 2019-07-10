@@ -156,7 +156,7 @@ Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire 
     => Appelez (Google, nous...) à l'aide
 
 
-### 1.5.3 <code>&ast;</code>the lights go out<code>&ast;</code>: Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
+### 1.5.3 Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
 
 **<span style="color:blue">=> FYI</span>**
 
@@ -164,7 +164,7 @@ Il faut installer les drivers usb ad-hoc selon votre système et activer le mode
 
 [React Native: Running On Device](https://facebook.github.io/react-native/docs/running-on-device)
 
-### 1.5.4 'Oh... one more thing': Je veux un environment natif et/ou un emulateur-simulateur de smartphone sur mon PC
+### 1.5.4 Je veux un environment natif et/ou un emulateur-simulateur de smartphone sur mon PC
 
 **<span style="color:blue">=> FYI</span>**
 
@@ -184,7 +184,14 @@ Il **n'y aura pas d'assistance** lors du workshop...
 
 Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre la procédure d'installation décrite dans son readme.
 
-## 1.6 Let's begin
+
+## 1.6 <code>&ast;</code>the lights go out<code>&ast;</code> 'Oh... one more thing': The movie db
+
+Vous devrez vous créer un compte sur The movie db pour avoir un token pour vous connecter à l'APi (si on arrive jusque là dans le workshop).
+
+[Création du compte](https://www.themoviedb.org/account/signup?language=fr)
+
+## 1.7 Let's begin
 
 [c'est par ici...](#)
 
