@@ -45,7 +45,7 @@ Valable pour toutes les instructions du workshop
 
 ### Create React Native App (Expo) vs React Native CLI
 
-**<span style="color:blue">FYI</span>**
+**<span style="color:blue">=> FYI</span>**
 
 **CRNA**
 
@@ -114,5 +114,35 @@ Si ce n'est déjà fait, installez Expo sur votre smartphone:
 [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=fr)
 
 [App Store](https://apps.apple.com/us/app/expo-client/id982107779)
+
+### Test environement
+
+### Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
+
+Il faut installer les drivers ad-hoc selon votre système et activer le mode debug usb sur votre smartphone:
+
+[React Native: Running On Device](https://facebook.github.io/react-native/docs/running-on-device)
+
+### Je veux un environment natif et/ou un emulateur-simulateur de smartphone sur mon PC
+
+Ce n'est pas dans le scope du workshop, mais vous pouvez essayer d'installer/tester par vous même...
+
+Attention c'est 'touchy', long à installer et assez lourd en téléchargements donc faites le avant de vous présenter au workshop.
+
+Il **n'y aura pas d'assistance** lors du workshop...
+
+[Android Studio](https://developer.android.com/studio/) (nécessite l'installation d'autres API dans le logiciel: Android SDK Build-Tools, Android SDK tools, google play service...)
+
+[Emulateur Android Genymotion](https://www.genymotion.com/)
+
+[Emulateur sur Android Studio](https://developer.android.com/studio/run/managing-avds)
+
+[Apple XCode](https://developer.apple.com/xcode/)
+
+Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre sa procédure d'installation
+
+
+
+
 
 
