@@ -12,7 +12,13 @@
 * * *
 
 
+# TL;DR
+
+Passez à la partie *Test environnement*, nécessaire pour une participation au workshop.
+
+
 # Introduction
+
 
 ## Objectifs
 
@@ -107,23 +113,67 @@ Attention, ce processus est donc irréversible!!!
 
 ### Expo
 
-**<span style="color:blue">DoIt</span>**
+**<span style="color:blue">=>DoIt</span>**
 
-Si ce n'est déjà fait, installez Expo sur votre smartphone:
+Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire le build de l'application sur le smartphone depuis le PC :
 
 [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=fr)
 
 [App Store](https://apps.apple.com/us/app/expo-client/id982107779)
 
-### Test environement
+### Test environnement
+
+**<span style="color:blue">=>DoIt</span>**
+
+- Installez Expo sur votre smartphone (Android ou IOS), cfr supra pour les url vers les stores.
+
+- Installez le client expo sur le PC/Mac
+
+Linux: `$ npm install expo-cli --global`
+
+Mac: `$ sudo npm install -g expo-cli`
+
+- Créez votre première app React Native
+
+`$ expo init expo-test`
+
+Donnez un nom à l'application et installez les dépendances...
+
+- Lancez un test
+
+`$ cd init expo-test`
+
+`$ expo start` / `$ npm start`
+
+- Scannez le code avec l'application Expo du smartphone
+
+Cela va prendre un petit temps pour fair le build la première fois.
+
+
+=> Phase 1: Vous voyez apparaitre: *Open up App.js to start working on your app!*
+
+=> Phase 2: ?
+
+=> Phase 3: Profit
+
+Sinon, 
+
+=> Try again!
+
+=> Appelez (Google, nous...) à l'aide
+
 
 ### Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
 
-Il faut installer les drivers ad-hoc selon votre système et activer le mode debug usb sur votre smartphone:
+**<span style="color:blue">=> FYI</span>**
+
+Il faut installer les drivers usb ad-hoc selon votre système et activer le mode debug usb sur votre smartphone:
 
 [React Native: Running On Device](https://facebook.github.io/react-native/docs/running-on-device)
 
 ### Je veux un environment natif et/ou un emulateur-simulateur de smartphone sur mon PC
+
+**<span style="color:blue">=> FYI</span>**
 
 Ce n'est pas dans le scope du workshop, mais vous pouvez essayer d'installer/tester par vous même...
 
@@ -139,10 +189,11 @@ Il **n'y aura pas d'assistance** lors du workshop...
 
 [Apple XCode](https://developer.apple.com/xcode/)
 
-Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre sa procédure d'installation
+Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre la procédure d'installation décrite dans son readme.
 
 
 
+[Commençons...](#)
 
 
 
