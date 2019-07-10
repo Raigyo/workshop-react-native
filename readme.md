@@ -174,13 +174,13 @@ Attention c'est 'touchy', long à installer et assez lourd en téléchargements 
 
 Il **n'y aura pas d'assistance** lors du workshop...
 
-[Android Studio](https://developer.android.com/studio/) (nécessite l'installation d'autres API dans le logiciel: Android SDK Build-Tools, Android SDK tools, google play service...)
+- [Android Studio](https://developer.android.com/studio/) (nécessite l'installation d'autres API dans le logiciel: Android SDK Build-Tools, Android SDK tools, google play service...)
 
-[Emulateur Android Genymotion](https://www.genymotion.com/)
+- [Emulateur Android Genymotion](https://www.genymotion.com/)
 
-[Emulateur sur Android Studio](https://developer.android.com/studio/run/managing-avds)
+- [Emulateur sur Android Studio](https://developer.android.com/studio/run/managing-avds)
 
-[Apple XCode](https://developer.apple.com/xcode/)
+- [Apple XCode](https://developer.apple.com/xcode/)
 
 Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre la procédure d'installation décrite dans son readme.
 
