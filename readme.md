@@ -119,7 +119,7 @@ Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire 
 
 **<span style="color:blue">=>DoIt</span>**
 
-- Installez Expo sur votre smartphone (Android ou IOS), cfr [supra](https://github.com/Raigyo/workshop-react-native#expo) pour les url vers les stores.
+- Installez Expo sur votre smartphone (Android ou IOS), cfr [supra](https://github.com/Raigyo/workshop-react-native#151-expo) pour les url vers les stores.
 
 - Installez le client expo sur le PC/Mac
 
