@@ -195,7 +195,7 @@ Vous devrez vous créer un compte sur The movie db pour avoir un token pour vous
 
 ## 1.6 Let's begin
 
-[C'est par ici...](#)
+[C'est par ici...](https://github.com/Raigyo/workshop-react-native/blob/03-props/_tutorial/01-components.md)
 
 
 
