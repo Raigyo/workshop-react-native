@@ -115,8 +115,8 @@ export default data = [
 ~~~
 
 **<span style="color:blue">=> TryIt</span>**
-'
-Maintenant, essayer d'afficher le titre des deux films au lieu des clés a et b dans le search.
+
+Maintenant, essayez d'afficher le titre des deux films au lieu des clés a et b dans le search.
 
 Il faudra importer le helper au préalable:
 
