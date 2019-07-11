@@ -42,20 +42,25 @@ A vous de jouer!
 
 <details>
 <summary>Indice: Component</summary>
+
 [FlatList](https://facebook.github.io/react-native/docs/flatlist.html)
+
 </details>
 
 <details>
 <summary>Indice: Import</summary>
+
 ```javascript
-import { StyleSheet, View, TextInput, Button, Text, FlatList  } from 'react-native```
+import { StyleSheet, View, TextInput, Button, Text, FlatList  } from 'react-native'
+```
+
 </details>
 
 <details>
 <summary>Indice: Affichés clés dans la vue</summary>
+
 ```javascript
 // Components/Search.js
-
 render() {
     return (
       <View style={styles.main_container}>
@@ -68,6 +73,7 @@ render() {
         />
       </View>
     )
-}```
+}
+```
 
 </details>
