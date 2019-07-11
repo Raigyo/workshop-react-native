@@ -87,7 +87,7 @@ Astuces:
 
 
 <details>
-<summary>Solution: Search.js</summary>
+<summary>Solution: App.js</summary>
 // App.js
 
 import React from 'react'
