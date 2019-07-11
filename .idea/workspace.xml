@@ -43,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="623">
-                <caret line="128" column="3" selection-start-line="128" selection-start-column="3" selection-end-line="128" selection-end-column="3" />
+              <first_editor relative-caret-position="205">
+                <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
                 <folding>
                   <element signature="e#10#35#0" expanded="true" />
                   <element signature="e#24#49#0" expanded="true" />
@@ -59,8 +59,8 @@
         <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="509">
-                <caret line="76" selection-start-line="76" selection-end-line="76" selection-end-column="3" />
+              <first_editor relative-caret-position="167">
+                <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562743809585</updated>
       <workItem from="1562743815966" duration="11632000" />
-      <workItem from="1562828695698" duration="10209000" />
+      <workItem from="1562828695698" duration="10274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21841000" />
+    <option name="totallyTimeSpent" value="21906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -244,16 +244,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="509">
-            <caret line="76" selection-start-line="76" selection-end-line="76" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_tutorial/02-styles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -264,11 +254,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="167">
+            <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="623">
-            <caret line="128" column="3" selection-start-line="128" selection-start-column="3" selection-end-line="128" selection-end-column="3" />
+          <first_editor relative-caret-position="205">
+            <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
             <folding>
               <element signature="e#10#35#0" expanded="true" />
               <element signature="e#24#49#0" expanded="true" />

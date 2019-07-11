@@ -101,10 +101,10 @@ export default class App extends React.Component {
       <Search/>
     )
   }
-}
+}```
 
 </details>
-```
+
 
 <details>
 <summary>Solution: Search.js</summary>
