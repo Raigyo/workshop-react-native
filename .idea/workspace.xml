@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a4bb18-f286-4749-9788-f8ef5b716573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_tutorial/03-props.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorial/03-props.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorial/01-components.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorial/01-components.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,24 +39,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="107" column="23" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+              <first_editor relative-caret-position="623">
+                <caret line="128" column="3" selection-start-line="128" selection-start-column="3" selection-end-line="128" selection-end-column="3" />
+                <folding>
+                  <element signature="e#10#35#0" expanded="true" />
+                  <element signature="e#24#49#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="148">
-                <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <first_editor relative-caret-position="509">
+                <caret line="76" selection-start-line="76" selection-end-line="76" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -97,10 +101,10 @@
       <list>
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/App.js" />
-        <option value="$PROJECT_DIR$/_tutorial/01-components.md" />
         <option value="$PROJECT_DIR$/_tutorial/02-styles.md" />
         <option value="$PROJECT_DIR$/Components/Search.js" />
         <option value="$PROJECT_DIR$/_tutorial/03-props.md" />
+        <option value="$PROJECT_DIR$/_tutorial/01-components.md" />
       </list>
     </option>
   </component>
@@ -175,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562743809585</updated>
       <workItem from="1562743815966" duration="11632000" />
-      <workItem from="1562828695698" duration="10080000" />
+      <workItem from="1562828695698" duration="10209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21712000" />
+    <option name="totallyTimeSpent" value="21841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -240,11 +244,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
+    <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="107" column="23" lean-forward="true" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+          <first_editor relative-caret-position="509">
+            <caret line="76" selection-start-line="76" selection-end-line="76" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -260,11 +264,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
+    <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="148">
-            <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <first_editor relative-caret-position="623">
+            <caret line="128" column="3" selection-start-line="128" selection-start-column="3" selection-end-line="128" selection-end-column="3" />
+            <folding>
+              <element signature="e#10#35#0" expanded="true" />
+              <element signature="e#24#49#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

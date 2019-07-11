@@ -88,6 +88,8 @@ Astuces:
 
 <details>
 <summary>Solution: App.js</summary>
+
+```javascript
 // App.js
 
 import React from 'react'
@@ -100,11 +102,14 @@ export default class App extends React.Component {
     )
   }
 }
-</details>
 
+</details>
+```
 
 <details>
 <summary>Solution: Search.js</summary>
+
+```javascript
 // Components/Search.js
 
 import React from 'react'
@@ -121,6 +126,7 @@ class Search extends React.Component {
   }
 }
 export default Search
+```
 
 </details>
 
