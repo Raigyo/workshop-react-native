@@ -9,3 +9,4 @@ npm-debug.*
 web-build/
 web-report/
 .API/TMDBApi.js
+TMDBApi.js
