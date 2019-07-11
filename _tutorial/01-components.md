@@ -34,7 +34,7 @@ Le but est de créer des vues indépendantes pouvant être réutilisées.
 
 Dans les fait et par convention dans React.js et Native, on crée un component par vue, même si on en a besoin qu'une seule fois afin de clarifier le code et le développement.
 
-**<span style="color:blue">TryIt</span>**
+**<span style="color:blue">=>TryIt</span>**
 
 Nous allons à présent créer notre premier component, il s'agit d'une vue de recherche.
 
