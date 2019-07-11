@@ -146,4 +146,8 @@ A présent vous devriez voir les deux films s'afficher...
 
 ## 3.3 Items customs 
 
+Dans cette partie nous allons mettre en page l'affichage de nos films.
+
+Dans Components, créons un fichier FilmItem.js.
+
 

@@ -56,6 +56,8 @@ On peut bien entendu ajouter autant de style que l'on veut.
 
 ## 2.2 Flexbox
 
+**<span style="color:blue">=>FYI</span>**
+
 C'est le même Flexbox que pour le web. Par contre, s'il est facultatif de l'utiliser pour le web, il est indispensable avec React Native.
 
 En effet il est très difficile de faire sans pour disposer les blocs et que cela donne le même rendu sur tous les smartphones/tablettes.
