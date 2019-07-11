@@ -388,7 +388,7 @@ Notre application commence à ressembler à quelque chose!
 
 ## 3.4 Next
 
-[04 States & API... :-) ](04-states.md)
+[04 States & API...](04-states.md)
 
 
 
