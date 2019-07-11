@@ -47,12 +47,13 @@ A vous de jouer!
 
 <details>
 <summary>Indice: Import</summary>
-`import { StyleSheet, View, TextInput, Button, Text, FlatList  } from 'react-native'`
+```javascript
+import { StyleSheet, View, TextInput, Button, Text, FlatList  } from 'react-native```
 </details>
 
 <details>
 <summary>Indice: Affichés clés dans la vue</summary>
-~~~
+```javascript
 // Components/Search.js
 
 render() {
@@ -67,6 +68,6 @@ render() {
         />
       </View>
     )
-}
-~~~
+}```
+
 </details>
