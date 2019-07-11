@@ -14,7 +14,7 @@
 
 # 1. Styles
 
-## 1.1 API Stylesheet
+## 2.1 API Stylesheet
 
 **<span style="color:blue">=>DoIt</span>**
 
@@ -54,7 +54,7 @@ C'est tout de suite mieux.
 
 On peut bien entendu ajouter autant de style que l'on veut.
 
-## 1.2 Flexbox
+## 2.2 Flexbox
 
 C'est le même Flexbox que pour le web. Par contre, s'il est facultatif de l'utiliser pour le web, il est indispensable avec React Native.
 
@@ -115,7 +115,11 @@ const styles = StyleSheet.create({
 export default Search
 ~~~
 
-## 1.3 Next...
+## 2.3 Next...
+
+On a vu rapidement ce qu'étaient les styles et leur importances...
+
+Passons aux choses sérieuses, nous allons 'propser'! ©Matthieu
 
 
 [03 Props... :-) ](03-props.md)

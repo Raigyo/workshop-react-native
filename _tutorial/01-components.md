@@ -24,7 +24,7 @@ C'est grâce aux différents components que nous pourrons réaliser des vues.
 
 Gardez [cette page](https://facebook.github.io/react-native/docs/components-and-apis.html) sous le coude, elle liste tous components React Native.
 
-## 1.2 Les components custom
+## 1.1 Les components custom
 
 Il ne s'agit pas vraiment de customiser des élements mais bien de créer des vues utilisant plusieurs components.
 
@@ -131,7 +131,7 @@ export default Search
 </details>
 
 
-## 1.3 Next...
+## 1.2 Next...
 
 Voilà vous avez créé votre premier component, utilisé le JSX dans vos rendu avec des components React Native!
 
