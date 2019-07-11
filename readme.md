@@ -14,13 +14,13 @@
 
 # TL;DR
 
-Passez à la partie *[Test environnement](https://github.com/Raigyo/workshop-react-native#152-test-environnement)*, nécessaire pour une participation au workshop.
+Passez à la partie *[Test environnement](https://github.com/Raigyo/workshop-react-native#142-test-environnement)*, nécessaire pour une participation au workshop.
 
 
 # 1. Introduction
 
 
-## 1.2 Objectifs
+## 1.1 Objectifs
 
 React Native est une librairie qui permet de développer une application en React.js qui est lisible à la fois sur IOS et Android (littéralement, c'est React to Native).
 
@@ -30,7 +30,7 @@ Ce workshop est basé sur un tuto Openclassrooms beaucoup plus complet et il ser
 
 Il s'agit donc seulement d'une introduction au langage et à ses possibilités.
 
-## 1.3 Prérequis
+## 1.2 Prérequis
 
 Il est préférable d'avoir une certaine connaissance de la **librairie** React.js pour mieux comprendre mais ce n'est pas obligatoire..
 
@@ -39,7 +39,7 @@ Node.js et NPM **doivent** être installés (ça devrait être déjà le cas).
 Vous devez vous munir de votre smartphone. La connexion entre l'ordinateur et le smartphone se fera via Wifi.
 
 
-## 1.4 Lexique
+## 1.3 Lexique
 
 Valable pour toutes les instructions du workshop 
 
@@ -49,7 +49,7 @@ Valable pour toutes les instructions du workshop
 
 - **<span style="color:blue">TryIt</span>**: exercice à faire!
 
-## 1.5 Create React Native App (Expo) vs React Native CLI
+## 1.4 Create React Native App (Expo) vs React Native CLI
 
 **<span style="color:blue">=> FYI</span>**
 
@@ -105,7 +105,7 @@ Il est possible de passer d'un développement CRNA à un développement React Na
 Attention, ce processus est donc irréversible!!!
 
 
-### 1.5.1 Expo
+### 1.4.1 Expo
 
 **<span style="color:blue">=>DoIt</span>**
 
@@ -115,7 +115,7 @@ Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire 
 
 [App Store](https://apps.apple.com/us/app/expo-client/id982107779)
 
-### 1.5.2 Test environnement
+### 1.4.2 Test environnement
 
 **<span style="color:blue">=>DoIt</span>**
 
@@ -156,7 +156,7 @@ Installez Expo sur votre smartphone, cette app gratuite vous permettra de faire 
     => Appelez (Google, nous...) à l'aide
 
 
-### 1.5.3 Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
+### 1.4.3 Je veux utiliser un cable usb au lieu du Wifi (ou: le wifi va planter le jour du workshop)
 
 **<span style="color:blue">=> FYI</span>**
 
@@ -164,7 +164,7 @@ Il faut installer les drivers usb ad-hoc selon votre système et activer le mode
 
 [React Native: Running On Device](https://facebook.github.io/react-native/docs/running-on-device)
 
-### 1.5.4 Je veux un environment natif et/ou un emulateur-simulateur de smartphone sur mon PC
+### 1.4.4 Je veux un environment natif et/ou un emulateur-simulateur de smartphone sur mon PC
 
 **<span style="color:blue">=> FYI</span>**
 
@@ -185,7 +185,7 @@ Il **n'y aura pas d'assistance** lors du workshop...
 Si vous avez participé au workshop d'[Antony Rizzitelli](https://github.com/Upd4ting/Workshop-Mobile), tout est déjà installé normalement (SDK, emulateurs...). Vous pouvez aussi suivre la procédure d'installation décrite dans son readme.
 
 
-## 1.6 <code>&ast;</code>the lights go out<code>&ast;</code> 'Oh... one more thing'...
+## 1.5 <code>&ast;</code>the lights go out<code>&ast;</code> 'Oh... one more thing'...
 
 **The movie db**
 
@@ -193,7 +193,7 @@ Vous devrez vous créer un compte sur The movie db pour avoir un token pour vous
 
 [Création du compte](https://www.themoviedb.org/account/signup?language=fr)
 
-## 1.7 Let's begin
+## 1.6 Let's begin
 
 [C'est par ici...](#)
 

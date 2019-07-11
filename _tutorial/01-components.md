@@ -131,7 +131,7 @@ export default Search
 </details>
 
 
-## 1.2 Next...
+## 1.3 Next...
 
 Voilà vous avez créé votre premier component, utilisé le JSX dans vos rendu avec des components React Native!
 
