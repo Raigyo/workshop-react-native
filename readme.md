@@ -6,7 +6,7 @@
 
 *Juillet 2019*
 
-> 🔨 Workshop: Création d'une application en React Native. Lara Loicq & Vincent Chilot.
+> 🔨 Workshop: Création d'une application en React Native. Lara Loicq & Vincent Chilot. D'après le tutoriel de Maxime Charruel sur Openclassrooms.
 
 
 * * *
