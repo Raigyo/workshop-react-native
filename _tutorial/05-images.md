@@ -38,7 +38,13 @@ N'hésitez pas à reprendre le tutoriel depuis le début, beaucoup d'explication
 
 Son tuto ajoute d'autres vues, l'injection et l'utilisation de la caméra, le databinding, la gestion d'état et la persistance des données avec Redux et bien d'autres choses encore, y compris la publication sur les stores.
 
-Pour aller plus loin vous trouverez des liens utiles en fin d'artile.
+Pour aller plus loin vous trouverez des liens utiles en fin d'article.
+
+Egalement, vous trouverez toutes les étapes de ce workshop dans le [repo](https://github.com/Raigyo/workshop-react-native/tree/master).
+
+En effet chaque section est associée à une branche, et le contenu de la branche correspond à l'étape finale de la section correspondante.
+
+
 
 ## 5.1 
 
