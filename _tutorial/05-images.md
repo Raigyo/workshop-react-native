@@ -46,7 +46,7 @@ En effet chaque section est associée à une branche, et le contenu de la branch
 
 
 
-## 5.1 
+## 5.1 Les images
 
 Mais chose promise chose due les images.
 
