@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a4bb18-f286-4749-9788-f8ef5b716573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_tutorial/05-images.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorial/05-images.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorial/02-styles.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorial/02-styles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tutorial/04-states.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorial/04-states.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1866">
-                <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="20" />
+              <first_editor relative-caret-position="228">
+                <caret line="12" lean-forward="true" selection-end-line="142" />
               </first_editor>
               <second_editor />
             </state>
@@ -43,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/_tutorial/02-styles.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="547">
-                <caret line="126" selection-start-line="126" selection-end-line="126" selection-end-column="31" />
+              <first_editor relative-caret-position="209">
+                <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -55,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="490">
-                <caret line="390" column="21" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="21" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" lean-forward="true" selection-end-line="394" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="e#0#25#0" expanded="true" />
@@ -67,24 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_tutorial/04-states.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1030">
-                <caret line="348" column="38" selection-start-line="348" selection-start-column="38" selection-end-line="348" selection-end-column="38" />
+              <first_editor relative-caret-position="259">
+                <caret line="226" column="88" selection-start-line="226" selection-start-column="88" selection-end-line="226" selection-end-column="88" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_tutorial/05-images.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="371">
-                <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+              <first_editor relative-caret-position="238">
+                <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,6 +97,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>import films from '../Helpers/filmsData</find>
+      <find>je</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,16 +109,16 @@
         <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/Helpers/filmsData.js" />
         <option value="$PROJECT_DIR$/_tutorial/01-components.md" />
-        <option value="$PROJECT_DIR$/_tutorial/02-styles.md" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Components/Search.js" />
-        <option value="$PROJECT_DIR$/_tutorial/04-states.md" />
         <option value="$PROJECT_DIR$/API/TMDBApi.js" />
         <option value="$PROJECT_DIR$/API/TMDBApi.new.js" />
         <option value="$PROJECT_DIR$/Components/FilmItem.js" />
         <option value="$PROJECT_DIR$/_tutorial/03-props.md" />
         <option value="$PROJECT_DIR$/_tutorial/05-images.md" />
+        <option value="$PROJECT_DIR$/_tutorial/02-styles.md" />
+        <option value="$PROJECT_DIR$/_tutorial/04-states.md" />
       </list>
     </option>
   </component>
@@ -198,12 +200,12 @@
       <updated>1562743809585</updated>
       <workItem from="1562743815966" duration="11632000" />
       <workItem from="1562828695698" duration="21293000" />
-      <workItem from="1562915347264" duration="15040000" />
+      <workItem from="1562915347264" duration="15438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47965000" />
+    <option name="totallyTimeSpent" value="48363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -322,11 +324,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_tutorial/04-states.md">
+    <entry file="file://$PROJECT_DIR$/_tutorial/05-images.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1030">
-            <caret line="348" column="38" selection-start-line="348" selection-start-column="38" selection-end-line="348" selection-end-column="38" />
+          <first_editor relative-caret-position="238">
+            <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           </first_editor>
           <second_editor />
         </state>
@@ -335,8 +337,8 @@
     <entry file="file://$PROJECT_DIR$/_tutorial/01-components.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1866">
-            <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="20" />
+          <first_editor relative-caret-position="228">
+            <caret line="12" lean-forward="true" selection-end-line="142" />
           </first_editor>
           <second_editor />
         </state>
@@ -345,8 +347,8 @@
     <entry file="file://$PROJECT_DIR$/_tutorial/02-styles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="547">
-            <caret line="126" selection-start-line="126" selection-end-line="126" selection-end-column="31" />
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -355,8 +357,8 @@
     <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="490">
-            <caret line="390" column="21" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="21" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" lean-forward="true" selection-end-line="394" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="e#0#25#0" expanded="true" />
@@ -366,11 +368,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_tutorial/05-images.md">
+    <entry file="file://$PROJECT_DIR$/_tutorial/04-states.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="371">
-            <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <first_editor relative-caret-position="259">
+            <caret line="226" column="88" selection-start-line="226" selection-start-column="88" selection-end-line="226" selection-end-column="88" />
           </first_editor>
           <second_editor />
         </state>

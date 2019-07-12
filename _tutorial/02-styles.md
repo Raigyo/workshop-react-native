@@ -12,7 +12,7 @@
 * * *
 
 
-# 1. Styles
+# 2. Styles
 
 ## 2.1 API Stylesheet
 

@@ -224,7 +224,7 @@ Ils vont nous permettre de modifier notre component et ses données affichées, 
 
 **<span style="color:blue">=> DoIt</span>**
 
-Dans Search.js, modifions notre constructeur pour définir un state avec un objet 'films':
+Dans Search.js, modifions notre constructeur pour définir un state avec un objet `_film`:
 
 ~~~
 // Components/Search.js
