@@ -222,6 +222,8 @@ Il nous faut autre chose, les **states**.
 
 Ils vont nous permettre de modifier notre component et ses données affichées, via la méthode render qui va rerendre le component dès que le state est modifié via la fonction setState.
 
+**<span style="color:blue">=> DoIt</span>**
+
 Dans Search.js, modifions notre constructeur pour définir un state avec un objet 'films':
 
 ~~~
@@ -261,3 +263,170 @@ _loadFilms() {
 ```
 
 </details>
+
+A présent les films sont bien affichés lorsque l'on fait une recherche.
+
+Néanmoins la recherche est toujours statique car on passe l'argument "star" à la fonction de recherche dans l'API.
+
+
+## 4.4 Text input
+
+**<span style="color:blue">=> FYI</span>**
+
+En React pour récupérer la valeur d'un input, envoyer la valeur de la chaîne encodée lorsqu'on appuiera sur rechercher ne fonctionnera pas.
+
+Il n'y aura en effet aucune valeur enregistrée dans l'input. 
+
+Pour cela il faut absolument placer un 'écouteur' qui va enregistrer chaque lettre encodée par l'utilisateur.
+
+Nous passerons par un state pour la chaîne de caractère. Il faudra également éviter que le compoenent ne soit re-rendu à chaque fois que l'utilisateur encode une lettre.
+
+
+**<span style="color:blue">=> TryIt</span>**
+
+Dans Search.js, ajoutons la propriété onChangeText dans le Text input:
+
+
+~~~
+<TextInput
+    style={styles.textinput} placeholder='Titre du film'
+    onChangeText={(text) => this._searchTextInputChanged(text)}
+/>
+~~~
+
+A vous de jouer:
+
+Créez la fonction onChangeText. Cette fonction devra gérer le changement d'état d'un state 'searchedText' qui sera une string vide
+
+Il faudra aussi que la fonction _loadFilms récupère le state 'searchedText'...
+
+<details>
+<summary>Solution: fonction _searchTextInputChanged + state searchedText:</summary>
+
+```javascript
+// Components/Search.js
+
+class Search extends React.Component {
+    constructor(props) {
+        super(props)
+        this.state = {
+          films: [],
+          searchedText: ""// notre state qui est une string vide
+        }
+    }
+    
+    _searchTextInputChanged(text) {
+        this.setState({ searchedText: text })// notre setState 
+    }
+```
+
+</details>
+
+
+<details>
+<summary>Solution: _loadFilms</summary>
+
+```javascript
+// Components/Search.js
+
+// après constructor
+
+    _loadFilms() {
+        if (this.state.searchedText.length > 0) {
+            getFilmsFromApiWithSearchedText(this.state.searchedText).then(data => {
+                this.setState({ films: data.results })
+            })
+        }
+    }
+```
+
+</details>
+
+Cela fonctionne à présent, l'application liste les films recherchés!
+
+Par contre ce n'est pas tip-top car on régénère le rendu chaque fois qu'on introduit une lettre.
+
+Ce qu'on vient de faire est intéressant pour voir comment fonctionnent les states et les setstates, mais ça ne l'est pas en termes d'optimisation...
+
+Il est du coup plus intéressant de passer par une variable pour la saisie du texte et pas par un state afin de régénérer la vue une seule fois.
+
+Voici le code. Vous pouvez comparer, c'est classique, on passe les lettres tapées en argument et on renvoie la recherche finale lorsqu'on appuie sur le bouton rechercher.
+
+On ne fait plus le rendu qu'une seule fois.
+
+<details>
+<summary>Récapitulatif: Search.js</summary>
+
+```javascript
+// Components/Search.js
+
+import React from 'react'
+import { StyleSheet, View, TextInput, Button, Text, FlatList } from 'react-native'
+import FilmItem from './FilmItem'
+import { getFilmsFromApiWithSearchedText } from '../API/TMDBApi'
+
+class Search extends React.Component {
+
+  constructor(props) {
+    super(props)
+    this.searchedText = "" // Initialisation de notre donnée searchedText en dehors du state
+    this.state = {
+      films: []
+    }
+  }
+
+  _loadFilms() {
+    if (this.searchedText.length > 0) { // Seulement si le texte recherché n'est pas vide
+      getFilmsFromApiWithSearchedText(this.searchedText).then(data => {
+          this.setState({ films: data.results })
+      })
+    }
+  }
+
+  _searchTextInputChanged(text) {
+    this.searchedText = text // Modification du texte recherché à chaque saisie de texte, sans passer par le setState comme avant
+  }
+
+  render() {
+    //console.log("RENDER")
+    return (
+      <View style={styles.main_container}>
+        <TextInput
+          style={styles.textinput}
+          placeholder='Titre du film'
+          onChangeText={(text) => this._searchTextInputChanged(text)}
+        />
+        <Button title='Rechercher' onPress={() => this._loadFilms()}/>
+        <FlatList
+          data={this.state.films}
+          keyExtractor={(item) => item.id.toString()}
+          renderItem={({item}) => <FilmItem film={item}/>}
+        />
+      </View>
+    )
+  }
+}
+
+const styles = StyleSheet.create({
+  main_container: {
+    flex: 1,
+    marginTop: 20
+  },
+  textinput: {
+    marginLeft: 5,
+    marginRight: 5,
+    height: 50,
+    borderColor: '#000000',
+    borderWidth: 1,
+    paddingLeft: 5
+  }
+})
+
+export default Search
+```
+
+</details>
+
+## 4.5 Next
+
+[05 Ajout des images](05-images.md)

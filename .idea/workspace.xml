@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18a4bb18-f286-4749-9788-f8ef5b716573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Search.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_tutorial/04-states.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tutorial/04-states.md" afterDir="false" />
     </list>
@@ -21,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="51" selection-start-line="51" selection-end-line="58" selection-end-column="10" />
+              <first_editor relative-caret-position="452">
+                <caret line="388" selection-start-line="388" selection-end-line="388" selection-end-column="11" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="e#0#25#0" expanded="true" />
@@ -33,16 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_tutorial/04-states.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="205">
-                <caret line="229" selection-start-line="229" selection-end-line="232" selection-end-column="1" />
+              <first_editor relative-caret-position="262">
+                <caret line="354" column="43" selection-start-line="354" selection-start-column="43" selection-end-line="354" selection-end-column="43" />
                 <folding>
                   <element signature="e#24#49#0" expanded="true" />
                   <element signature="e#24#49#0" expanded="true" />
                   <element signature="e#177#210#0" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#24#49#0" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -50,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Components/Search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="437">
+              <caret line="35" selection-start-line="35" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="e#25#50#0" expanded="true" />
                 <element signature="e#178#211#0" expanded="true" />
@@ -95,8 +97,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/API/TMDBApi.new.js" />
         <option value="$PROJECT_DIR$/API/TMDBApi.js" />
-        <option value="$PROJECT_DIR$/_tutorial/04-states.md" />
         <option value="$PROJECT_DIR$/Components/Search.js" />
+        <option value="$PROJECT_DIR$/_tutorial/04-states.md" />
       </list>
     </option>
   </component>
@@ -178,12 +180,12 @@
       <updated>1562743809585</updated>
       <workItem from="1562743815966" duration="11632000" />
       <workItem from="1562828695698" duration="21293000" />
-      <workItem from="1562915347264" duration="6949000" />
+      <workItem from="1562915347264" duration="11664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39874000" />
+    <option name="totallyTimeSpent" value="44589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
@@ -311,11 +313,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="35" selection-start-line="35" selection-end-line="38" selection-end-column="18" />
+          <folding>
+            <element signature="e#25#50#0" expanded="true" />
+            <element signature="e#178#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_tutorial/03-props.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="51" selection-start-line="51" selection-end-line="58" selection-end-column="10" />
+          <first_editor relative-caret-position="452">
+            <caret line="388" selection-start-line="388" selection-end-line="388" selection-end-column="11" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="e#0#25#0" expanded="true" />
@@ -328,26 +341,18 @@
     <entry file="file://$PROJECT_DIR$/_tutorial/04-states.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="205">
-            <caret line="229" selection-start-line="229" selection-end-line="232" selection-end-column="1" />
+          <first_editor relative-caret-position="262">
+            <caret line="354" column="43" selection-start-line="354" selection-start-column="43" selection-end-line="354" selection-end-column="43" />
             <folding>
               <element signature="e#24#49#0" expanded="true" />
               <element signature="e#24#49#0" expanded="true" />
               <element signature="e#177#210#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#24#49#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Components/Search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#25#50#0" expanded="true" />
-            <element signature="e#178#211#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
