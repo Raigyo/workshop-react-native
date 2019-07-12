@@ -110,7 +110,7 @@ _loadFilms() {
 
 **<span style="color:blue">=> TryIt</span>**
 
-Vous êtes en mode 'copypasta' depuis un moment, à vous de jouer pour :
+Vous êtes en mode 'copypasta'©Biki depuis un moment, à vous de jouer pour :
 
 - intégrer un appel de la fonction sur le bouton
 
